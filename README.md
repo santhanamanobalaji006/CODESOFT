@@ -1,5 +1,5 @@
 # CODESOFT #INTERNSHIP
-                                           --------------------------------------------JAVA DEVELOPMENT-----------------------------------------------
+                    --------------------------------------------JAVA DEVELOPMENT-----------------------------------------------
 TASK 1:NUMBER GAME
 
 1. Generate a random number within a specified range, such as 1 to 100.
