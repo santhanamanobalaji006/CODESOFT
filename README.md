@@ -1,6 +1,6 @@
 # CODESOFT #INTERNSHIP
                     --------------------------------------------JAVA DEVELOPMENT-----------------------------------------------
-TASK 1:NUMBER GAME
+     TASK 1:NUMBER GAME
 
 1. Generate a random number within a specified range, such as 1 to 100.
 
@@ -17,7 +17,7 @@ You can incorporate additional details as follows:
 6. Add the option for multiple rounds, allowing the user to play again.
 7. Display the user's score, which can be based on the number of attempts taken or rounds won.
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
     TASK 2:STUDENT GRADE CALCULATOR
 
@@ -28,9 +28,9 @@ average percentage.
 Grade Calculation: Assign grades based on the average percentage achieved.
 Display Results: Show the total marks, average percentage, and the corresponding grade to the user
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-TASK 3:ATM INTERFACE
+    TASK 3:ATM INTERFACE
 
 1.Create a class to represent the ATM machine.
 
@@ -49,9 +49,9 @@ balance.
 
 7. Display appropriate messages to the user based on their chosen options and the success or failure of their transactions.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-TASK 4:CURRENCY CONVERTER:
+    TASK 4:CURRENCY CONVERTER:
 
 Currency Selection: Allow the user to choose the base currency and the target
 currency.
@@ -61,17 +61,17 @@ Currency Conversion: Convert the input amount from the base currency to the
 target currency using the fetched exchange rate.
 Display Result: Show the converted amount and the target currency symbolto the user.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    TASK 5:STUDENT MANAGEMENT SYSTEM
 
 
-TASK 5:STUDENT MANAGEMENT SYSTEM
 
-Create a Student class to represent individual students. Include attributes such as name, roll
+1.Create a Student class to represent individual students. Include attributes such as name, roll
 number, grade, and any other relevant details.
-Implement a StudentManagementSystem class to manage the collection of students. Include
-methods to add a student, remove a student, search for a student, and display all students.
-1.
 
-2.
+2.Implement a StudentManagementSystem class to manage the collection of students. Include
+methods to add a student, remove a student, search for a student, and display all students.
 
 3 . Design the user interface for the Student Management System. This can be a console-based
 interface or a graphical user interface (GUI) using libraries like Swing or JavaFX.
